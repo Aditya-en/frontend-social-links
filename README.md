@@ -4,6 +4,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
+![Screenshot](screenshot.jpg)
+
 ### Link
 
 Live Site URL: [visit page](https://aditya-en.github.io/frontend-social-links/)
