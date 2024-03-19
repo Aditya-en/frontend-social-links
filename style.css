@@ -61,4 +61,9 @@ img{
    font-weight: 700;
    background-color: var(--Grey);
 }
+.link:hover{
+   color: var(--Off-Black);
+   cursor: pointer;
+   background-color: hsl(75, 94%, 57%);
+}
 
